@@ -174,8 +174,6 @@ Go to android folder
 ./gradlew cleanBuildCache
 ```
 
-\
-
 ## Installation
 
 This App requires [Node.js](https://nodejs.org/) v10+ to run.
